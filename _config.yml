@@ -1,0 +1,16 @@
+title: Collapsed Effective Operators for Higher-order Structures
+description: >-
+  Condensing higher-order topology into a single, principled vertex-level
+  spectral operator via Schur complementation of a graded Laplacian. ICML 2026.
+url: "https://collapsedeffectiveoperators.github.io"
+baseurl: ""
+
+# This is a hand-built static page; Jekyll simply serves it (index.html has no
+# front matter, so it is copied through verbatim — no Liquid processing).
+# Keep these out of the published _site.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .jekyll-cache
